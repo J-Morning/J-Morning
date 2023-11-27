@@ -1,7 +1,7 @@
 <h2>Привет! <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
 <p> Меня зовут Юля, и я инженер по тестированию ПО</p> 
 
-<img align="right" src="https://arteryband.com/png/thumb/RUQ8RpBPkUP2FDY-Stag-Beetle-Transparent-PNG.png" height="245">
+<img align="right" src="https://vistapointe.net/images/stag-beetle-10.jpg" height="245">
 <h2>Факты</h2>
 <ul>
 <li>  Закончила курс "Инженер по тестированию ПО +" от Яндекс Практикум </li>
@@ -27,8 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-<img src="https://logosandtypes.com/wp-content/uploads/2022/04/Miro.png" alt="Miro" width="40" height="40" />
-<img src="https://w7.pngwing.com/pngs/884/748/png-transparent-postgresql-computer-icons-database-angularjs-tencent-miscellaneous-blue-logo.png" alt="Miro" width="40" height="40" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/b2/51/20b251b1-26fc-9004-8fe5-d8360da24808/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="Miro" width="40" height="40" />
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40" />
 </p>
 <h2>Test Artifacts </h2>
 <p> 
