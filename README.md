@@ -1,7 +1,7 @@
 <h2>Привет! <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
 <p> Меня зовут Юля, и я инженер по тестированию ПО</p> 
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Melolontha_melolontha_%28Linn%C3%A9%2C_1758%29_male_%2814057750961%29.png/500px-Melolontha_melolontha_%28Linn%C3%A9%2C_1758%29_male_%2814057750961%29.png" height="245">
+<img align="right" src="https://arteryband.com/png/thumb/RUQ8RpBPkUP2FDY-Stag-Beetle-Transparent-PNG.png" height="245">
 <h2>Факты</h2>
 <ul>
 <li>  Закончила курс "Инженер по тестированию ПО +" от Яндекс Практикум </li>
